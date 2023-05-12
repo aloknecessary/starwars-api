@@ -1,10 +1,6 @@
 # starwars-api
 
-Sample api repo to return json responses
-
-# starwars-api
-
-StarWars characters open-source REST API
+StarWars characters REST API
 
 ### base url
 
